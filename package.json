@@ -1,0 +1,28 @@
+{
+  "name": "turf-gislis",
+  "version": "1.0.0",
+  "description": "testing out turf and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andywalz/turf-gislis.git"
+  },
+  "keywords": [
+    "gis",
+    "turf",
+    "node"
+  ],
+  "author": "Andy Walz <andy@cimbura.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andywalz/turf-gislis/issues"
+  },
+  "homepage": "https://github.com/andywalz/turf-gislis#readme",
+  "dependencies": {
+    "@turf/turf": "^3.5.2",
+    "open": "0.0.5"
+  }
+}
